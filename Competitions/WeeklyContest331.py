@@ -1,7 +1,4 @@
 def pickGifts(List, k):
-
-    
-
     return 0
 
 if __name__ == "__main__":
